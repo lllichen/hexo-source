@@ -5,11 +5,11 @@
 # Site
 title: heloo
 subtitle: think
-description:lichen's blog
-keywords:
-author: John Doe
-language:
-timezone:
+description: lichen's blog
+keywords: blog java 
+author: lichen
+language: chinese
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
